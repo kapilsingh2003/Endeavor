@@ -1,9 +1,17 @@
+<!DOCTYPE html>
 <html>
-<head>
-<title>
-welcome
-</title>
-<body>
-</body?
-</head>
-</html>
+	<head>
+	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+	<title> HEALTH AND CARE </title>
+	<link rel="stylesheet" href="cssax.css">
+	</head>
+
+	<body>
+		<section class="header">
+		<a href="" >home </a>
+        <a href="" >blog </a>
+        <a href="" >some info </a>
+        <a href="" >contact us </a>
+    </section>
+	</body>
+<html>
